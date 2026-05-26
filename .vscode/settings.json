@@ -1,0 +1,10 @@
+{
+  "pasteImage.path": "${currentFileDir}/assets",
+  "pasteImage.basePath": "${currentFileDir}",
+  "cSpell.words": [
+    "IPython",
+    "Python",
+    "macOS",
+    "pip"
+  ]
+}
