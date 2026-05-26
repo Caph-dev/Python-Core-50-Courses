@@ -1,4 +1,6 @@
 {
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.languageServer": "None",
   "pasteImage.path": "${currentFileDir}/assets",
   "pasteImage.basePath": "${currentFileDir}",
   "cSpell.words": [
